@@ -14,6 +14,7 @@ export const useStyles = createUseStyles({
     }
   },
   shareIcon: {
+    borderRadius: "5px",
     background: "#fafafa"
   },
   content: {
